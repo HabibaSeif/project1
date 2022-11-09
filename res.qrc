@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/">
+        <file>Sound/BulletSound.m4a</file>
+        <file>Sound/GameSound.m4a</file>
+    </qresource>
+    <qresource prefix="/Sound"/>
+</RCC>
